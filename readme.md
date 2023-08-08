@@ -1,6 +1,6 @@
 # Alfred
 
-> Alfred workflows I use
+> [Alfred](https://www.alfredapp.com) workflows I use
 
 ## Workflows
 
